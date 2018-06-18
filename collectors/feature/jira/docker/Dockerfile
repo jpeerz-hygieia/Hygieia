@@ -1,4 +1,3 @@
-
 FROM docker.io/openjdk:8-jre
 
 MAINTAINER Hygieia@capitalone.com
