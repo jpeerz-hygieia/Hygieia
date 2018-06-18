@@ -6,6 +6,7 @@ MAINTAINER Hygieia@capitalone.com
 RUN mkdir /hygieia /hygieia/config
 
 COPY *.jar /hygieia/
+
 COPY properties-builder.sh /hygieia/
 
 WORKDIR /hygieia/
