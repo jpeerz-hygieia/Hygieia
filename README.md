@@ -1,6 +1,7 @@
 <div align="center">
 <img width="250" align="top" src="/UI/src/assets/img/hygieia_b.png"><a href="https://www.blackducksoftware.com/about/news-events/releases/2015-open-source-rookies-year"><img width="55" align="top" hspace="20" src="https://github.com/capitalone/Hygieia/blob/gh-pages/media/images/Rookies_Award_Badge.png"></a> 
 </div>
+
 <div align="center"> 
  <p> <b>Pronunciation: <i>hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia"></i>(Origin: Greek)</a> </p>
 </div>
